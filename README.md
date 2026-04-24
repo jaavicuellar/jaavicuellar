@@ -12,4 +12,4 @@ I am a developer focused on building efficient and scalable solutions. My intere
 ## Tech Stack
 - Languages: [JavaScript, C++, HTML, python...]
 - Tools: [Docker, Git, AWS ...]
-<img width="67" height="67" alt="image" src="https://github.com/user-attachments/assets/20c6b99c-2114-41b0-a0e6-a2fa316ef15f" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/20c6b99c-2114-41b0-a0e6-a2fa316ef15f" />
