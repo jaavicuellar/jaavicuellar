@@ -1,5 +1,5 @@
 # Javi Cuellar
-Software Developer | [Frontend and backend]
+## Sofware developer
 <img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/efc81710-063e-4400-a0b2-a79bec88f143" />
 
 ## Summary
