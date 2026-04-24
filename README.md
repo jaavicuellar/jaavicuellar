@@ -1,4 +1,4 @@
-# [Javi Cuellar]
+# Javi Cuellar
 Software Developer | [Frontend and backend]
 
 ## Summary
