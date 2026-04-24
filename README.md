@@ -13,9 +13,3 @@ I am a developer focused on building efficient and scalable solutions. My intere
 - Languages: [JavaScript, C++, HTML, python...]
 - Frameworks: [List frameworks, e.g., React, Node.js, Django]
 - Tools: [Docker, Git, AWS ...]
-
-## GitHub Statistics
-[![GitHub Stats](https://vercel.app)](https://github.com)
-
-[![Top Languages](https://vercel.app)](https://github.com)
-
