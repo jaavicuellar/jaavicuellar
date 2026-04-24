@@ -1,6 +1,7 @@
 # Javi Cuellar
 <img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/efc81710-063e-4400-a0b2-a79bec88f143" />
 ## Summary
+
 I am a developer focused on building efficient and scalable solutions. My interests include [Software development], [data bases], and exploring new technologies to improve software performance.
 
 ## Currently
