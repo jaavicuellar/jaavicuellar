@@ -11,5 +11,4 @@ I am a developer focused on building efficient and scalable solutions. My intere
 
 ## Tech Stack
 - Languages: [JavaScript, C++, HTML, python...]
-- Frameworks: [List frameworks, e.g., React, Node.js, Django]
 - Tools: [Docker, Git, AWS ...]
