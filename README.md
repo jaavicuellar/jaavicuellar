@@ -12,7 +12,4 @@ I am a developer focused on building efficient and scalable solutions. My intere
 - Languages: [JavaScript, C++, HTML, python...]
 
 <img width="1200" height="300" alt="FromKlickPinCFCristianBogdanRosuonInstagramRunhorsyrunVideo_HalftoneDitherFXhttps__codepenio_Bogdan-Rosu-the-lessful_pen_raNaJoRVideoVideo_MotiondesignanimationMotiongraphicsdesignMotiongraphicsinspiration-ezgif com-resize" src="https://github.com/user-attachments/assets/a4f54c69-5376-4f11-bb06-9b9169ec24c8" />
-
-
 - Tools: [Docker, Git, AWS ...]
-<img width="1200" height="414" alt="image" src="https://github.com/user-attachments/assets/9ba509b4-30c7-4e3a-9313-ddf7202aa1f1" />
