@@ -11,7 +11,7 @@ I am a developer focused on building efficient and scalable solutions. My intere
 ## Tech Stack
 - Languages: [JavaScript, C++, HTML, python...]
 
-<img width="720" height="400" alt="FromKlickPinCFCristianBogdanRosuonInstagramRunhorsyrunVideo_HalftoneDitherFXhttps__codepenio_Bogdan-Rosu-the-lessful_pen_raNaJoRVideoVideo_MotiondesignanimationMotiongraphicsdesignMotiongraphicsinspiration-ezgif com-resize" src="https://github.com/user-attachments/assets/a4f54c69-5376-4f11-bb06-9b9169ec24c8" />
+<img width="1200" height="300" alt="FromKlickPinCFCristianBogdanRosuonInstagramRunhorsyrunVideo_HalftoneDitherFXhttps__codepenio_Bogdan-Rosu-the-lessful_pen_raNaJoRVideoVideo_MotiondesignanimationMotiongraphicsdesignMotiongraphicsinspiration-ezgif com-resize" src="https://github.com/user-attachments/assets/a4f54c69-5376-4f11-bb06-9b9169ec24c8" />
 
 
 - Tools: [Docker, Git, AWS ...]
