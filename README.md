@@ -5,7 +5,7 @@
 I am a developer focused on building efficient and scalable solutions. My interests include [Software development], [data bases], and exploring new technologies to improve software performance.
 
 ## Currently
-- Working on: [AMES]
+- Working on: [;)]
 - Learning: [Software development]
 
 ## Tech Stack
